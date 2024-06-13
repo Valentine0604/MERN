@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+bower_components/
+
+# Production build
+build/
+dist/
+
+# npm debug log
+npm-debug.log*
+
+# Yarn lock file
+yarn.lock
+
+# dotenv environment variables file
+.env
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+
+# Visual Studio Code directory
+.vscode/
+
+# Parcel cache directory
+.cache/
